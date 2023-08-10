@@ -1,0 +1,6 @@
+name: SharedSlot
+version: '${project.version}'
+main: de.tamion.SharedSlot
+api-version: '1.13'
+authors: [Tamion]
+description: Makes Everyone be on the same Slot
